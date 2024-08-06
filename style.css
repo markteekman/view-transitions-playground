@@ -1,0 +1,12 @@
+@view-transition {
+    navigation: auto;
+  }
+  
+  :root {
+    /* view-transition-name: root; */
+  }
+  
+  body {
+    font-family: sans-serif;
+  }
+  
